@@ -27,4 +27,6 @@ HOST-KEYWORD,speedtest,DIRECT
 HOST-SUFFIX,wechat.com,DIRECT
 HOST-SUFFIX,apple.com,DIRECT
 HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,marriott.com,DIRECT
+
 
