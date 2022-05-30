@@ -10,7 +10,7 @@ HOST-SUFFIX,youtu.be,HK IPLC
 HOST-SUFFIX,ytimg.com,HK IPLC
 
 
-#Random websites that blocks HK location
+#!!Random websites that blocks HK location
 HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
 HOST-SUFFIX,target.com,US
@@ -25,3 +25,6 @@ HOST-SUFFIX,github.com,PROXY
 #Enforce DIRECT rule
 HOST-KEYWORD,speedtest,DIRECT
 HOST-SUFFIX,wechat.com,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+
