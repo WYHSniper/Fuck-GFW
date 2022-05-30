@@ -10,14 +10,14 @@ HOST-SUFFIX,youtu.be,HK IPLC
 HOST-SUFFIX,ytimg.com,HK IPLC
 
 
-#!!Random websites that blocks HK location
+#Random websites that blocks HK location
 HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
 HOST-SUFFIX,target.com,US
 HOST-SUFFIX,anthem.com,US
 
 
-#Websites not recognized by default rules
+#Enforce PROXY rule
 HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,github.com,PROXY
 
