@@ -1,13 +1,13 @@
 #YouTube
-USER-AGENT,*youtube*,Google
-USER-AGENT,YouTube*,Google
-HOST-KEYWORD,youtube,Google
-HOST,yt3.ggpht.com,Google
-HOST,youtubei.googleapis.com,Google
-HOST-SUFFIX,googlevideo.com,Google
-HOST-SUFFIX,gvt2.com,Google
-HOST-SUFFIX,youtu.be,Google
-HOST-SUFFIX,ytimg.com,Google
+USER-AGENT,*youtube*,HK IPLC
+USER-AGENT,YouTube*,HK IPLC
+HOST-KEYWORD,youtube,HK IPLC
+HOST,yt3.ggpht.com,HK IPLC
+HOST,youtubei.googleapis.com,HK IPLC
+HOST-SUFFIX,googlevideo.com,HK IPLC
+HOST-SUFFIX,gvt2.com,HK IPLC
+HOST-SUFFIX,youtu.be,HK IPLC
+HOST-SUFFIX,ytimg.com,HK IPLC
 
 
 #Random websites that blocks HK location
