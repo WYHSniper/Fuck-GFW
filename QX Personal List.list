@@ -19,6 +19,7 @@ HOST-SUFFIX,anthem.com,US
 
 #Websites not recognized by default rules
 HOST-SUFFIX,instagram.com,PROXY
+HOST-SUFFIX,github.com,PROXY
 
 
 #Enforce DIRECT rule
