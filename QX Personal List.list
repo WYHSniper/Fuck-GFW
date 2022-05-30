@@ -21,6 +21,6 @@ HOST-SUFFIX,anthem.com,US
 HOST-SUFFIX,instagram.com,PROXY
 
 
-#Enforce direct rules
+#Enforce DIRECT rule
 HOST-KEYWORD,speedtest,DIRECT
 HOST-SUFFIX,wechat.com,DIRECT
