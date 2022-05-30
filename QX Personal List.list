@@ -8,3 +8,19 @@ HOST-SUFFIX,googlevideo.com,Google
 HOST-SUFFIX,gvt2.com,Google
 HOST-SUFFIX,youtu.be,Google
 HOST-SUFFIX,ytimg.com,Google
+
+
+#Random websites that blocks HK location
+HOST-SUFFIX,experian.com,US
+HOST-SUFFIX,chick-fil-a.com,US
+HOST-SUFFIX,target.com,US
+HOST-SUFFIX,anthem,com,US
+
+
+#Websites not recognized by default rules
+HOST-SUFFIX,instagram.com,PROXY
+
+
+#Enforce direct rules
+HOST-KEYWORD,speedtest,DIRECT
+HOST-SUFFIX,wechat.com,DIRECT
