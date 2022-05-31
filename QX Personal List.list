@@ -15,6 +15,7 @@ HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
 HOST-SUFFIX,target.com,US
 HOST-SUFFIX,anthem.com,US
+HOST-SUFFIX,mcdonald.com,US
 
 
 #Enforce PROXY rule
