@@ -1,3 +1,4 @@
+#Enforce HK IPLC rule
 #YouTube
 USER-AGENT,*youtube*,HK IPLC
 USER-AGENT,YouTube*,HK IPLC
@@ -10,7 +11,7 @@ HOST-SUFFIX,youtu.be,HK IPLC
 HOST-SUFFIX,ytimg.com,HK IPLC
 
 
-#Random websites that blocks HK location
+#Enforce US rule
 HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
 HOST-SUFFIX,target.com,US
