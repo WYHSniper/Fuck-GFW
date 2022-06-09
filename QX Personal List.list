@@ -24,6 +24,7 @@ HOST-SUFFIX,subway.com,US
 HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,themoviedb.org,PROXY
+HOST-SUFFIX,google.com,PROXY
 
 
 #Enforce DIRECT rule
