@@ -18,6 +18,7 @@ HOST-SUFFIX,target.com,US
 HOST-SUFFIX,anthem.com,US
 HOST-SUFFIX,mcdonald.com,US
 HOST-SUFFIX,subway.com,US
+HOST-SUFFIX,credit.com,US
 
 
 #Enforce PROXY rule
