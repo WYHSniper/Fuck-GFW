@@ -1,5 +1,4 @@
 #Enforce HK IPLC rule
-#YouTube
 USER-AGENT,*youtube*,HK IPLC
 USER-AGENT,YouTube*,HK IPLC
 HOST-KEYWORD,youtube,HK IPLC
