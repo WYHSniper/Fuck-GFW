@@ -8,6 +8,7 @@ HOST-SUFFIX,googlevideo.com,HK IPLC
 HOST-SUFFIX,gvt2.com,HK IPLC
 HOST-SUFFIX,youtu.be,HK IPLC
 HOST-SUFFIX,ytimg.com,HK IPLC
+HOST-SUFFIX,openai.com, HK IPLC
 
 
 #Enforce US rule
