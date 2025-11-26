@@ -21,13 +21,9 @@ HOST-SUFFIX,google.com,PROXY
 
 
 #Enforce DIRECT rule
-HOST-KEYWORD,speedtest,DIRECT
-HOST-KEYWORD,gov,DIRECT
 HOST-SUFFIX,wechat.com,DIRECT
 HOST-SUFFIX,apple.com,DIRECT
 HOST-SUFFIX,icloud.com,DIRECT
 HOST-SUFFIX,marriott.com,DIRECT
-HOST-SUFFIX,adisc.org,DIRECT
-
 
 
