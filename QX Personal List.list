@@ -1,16 +1,3 @@
-#Enforce HK IPLC rule
-USER-AGENT,*youtube*,HK IPLC
-USER-AGENT,YouTube*,HK IPLC
-HOST-KEYWORD,youtube,HK IPLC
-HOST,yt3.ggpht.com,HK IPLC
-HOST,youtubei.googleapis.com,HK IPLC
-HOST-SUFFIX,googlevideo.com,HK IPLC
-HOST-SUFFIX,gvt2.com,HK IPLC
-HOST-SUFFIX,youtu.be,HK IPLC
-HOST-SUFFIX,ytimg.com,HK IPLC
-HOST-SUFFIX,openai.com, HK IPLC
-
-
 #Enforce US rule
 HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
@@ -22,6 +9,8 @@ HOST-SUFFIX,credit.com,US
 HOST-SUFFIX,adisc.org,US
 HOST-SUFFIX,linkedin.com,US
 HOST-SUFFIX,easyjet.com,US
+HOST-SUFFIX,safeway.com,US
+
 
 
 #Enforce PROXY rule
