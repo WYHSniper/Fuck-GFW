@@ -6,19 +6,8 @@ HOST-SUFFIX,anthem.com,US
 HOST-SUFFIX,mcdonald.com,US
 HOST-SUFFIX,subway.com,US
 HOST-SUFFIX,credit.com,US
-HOST-SUFFIX,adisc.org,US
-HOST-SUFFIX,linkedin.com,US
 HOST-SUFFIX,easyjet.com,US
 HOST-SUFFIX,safeway.com,US
-
-
-
-#Enforce PROXY rule
-HOST-SUFFIX,instagram.com,PROXY
-HOST-SUFFIX,github.com,PROXY
-HOST-SUFFIX,themoviedb.org,PROXY
-HOST-SUFFIX,google.com,PROXY
-
 
 #Enforce DIRECT rule
 HOST-SUFFIX,wechat.com,DIRECT
@@ -27,3 +16,14 @@ HOST-SUFFIX,icloud.com,DIRECT
 HOST-SUFFIX,marriott.com,DIRECT
 
 
+#For Apple Intelligence
+HOST-SUFFIX, gateway.icloud.com
+HOST-SUFFIX, apple-relay.apple.com
+HOST-SUFFIX, apple-relay.fastly-edge.com
+HOST-SUFFIX, apple-relay.cloudflare.com
+HOST-SUFFIX, guzzoni.apple.com
+HOST-SUFFIX, cp4.cloudflare.com
+HOST-SUFFIX, gspe1-ssl.ls.apple.com
+HOST-SUFFIX, smoot.apple.com
+HOST-SUFFIX, apple-relay.akamaized.net
+HOST-SUFFIX, apple-relay.mask.apple-dns.net
