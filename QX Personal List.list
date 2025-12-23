@@ -8,12 +8,18 @@ HOST-SUFFIX,subway.com,US
 HOST-SUFFIX,credit.com,US
 HOST-SUFFIX,easyjet.com,US
 HOST-SUFFIX,safeway.com,US
+HOST-SUFFIX,linkedin.com,US
+
 
 #Enforce DIRECT rule
 HOST-SUFFIX,wechat.com,DIRECT
 HOST-SUFFIX,apple.com,DIRECT
 HOST-SUFFIX,icloud.com,DIRECT
 HOST-SUFFIX,marriott.com,DIRECT
+HOST-SUFFIX,zijieapi.com,DIRECT
+HOST-SUFFIX,qq.com.cn,DIRECT
+
+
 
 
 #For Apple Intelligence
