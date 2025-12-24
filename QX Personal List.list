@@ -1,3 +1,6 @@
+#Readme
+In order to use the following correctly, you have to set up two routing policies named as "US" and "HK" 
+
 #Enforce US rule
 HOST-SUFFIX,experian.com,US
 HOST-SUFFIX,chick-fil-a.com,US
